@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.mouseWheelZoom": true,
+    "[django-html]": {
+
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        }
+    },
+    "files.associations": {
+        "*.html": "python"
+    }
+}
